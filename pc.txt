@@ -1445,15 +1445,7 @@
                                             nhau,&nbsp; nên việc chuyển đổi hình thức sở hữu doanh nghiệp dựa trên quy
                                             mô doanh nghiệp và mục tiêu, chiến lược phát triển của các nhà lãnh đạo
                                             doanh nghiệp.&nbsp;</span></p>
-                                    <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Một
-                                            trong những ví dụ điển hình cho chuyển đổi hình thức sở hữu của doanh nghiệp
-                                            phải kể đến các đế chế công ty gia đình khủng ở Việt Nam. Tập đoàn Thành
-                                            Thành Công tiền thân là cơ sở sản xuất cồn Thành Thành Công thành lập năm
-                                            1979, nhằm mở rộng hoạt động sản xuất kinh doanh cơ sở sản xuất này đã
-                                            chuyển thành Công ty TNHH SX – TM Thành Thành Công vào năm 1998. Đến năm
-                                            2007 với mục đích phát triển và trong xu hướng chung của nền kinh tế, Công
-                                            ty TNHH SX- TM Thành Thành Công chuyển đổi thành Công ty Cổ phần SX-TM Thành
-                                            Thành Công.&nbsp;</span></p>
+                                    <p style="text-align: justify;"></p>
                                     <div class="lwptoc lwptoc-autoWidth lwptoc-baseItems lwptoc-light lwptoc-notInherit" data-smooth-scroll="1" data-smooth-scroll-offset="24" data-lwptoc-initialized="1" style="
     /* margin-top: 27px; */
 ">
@@ -1717,12 +1709,8 @@
                                             nghiệp.&nbsp;</span></p>
                                     <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><b><i>Về các thủ tục thực
                                                     hiện và hạch toán:</i></b></span></p>
-                                    <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Điều 47
-                                            của Luật kế toán năm 2015, có quy định về “Công việc kế toán trong trường
-                                            hợp chuyển đổi loại hình hoặc hình thức sở hữu” như sau:&nbsp;</span></p>
-                                    <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><i><span style="font-weight: 400;">”1. Đơn vị kế toán được chuyển đổi loại
-                                                    hình hoặc hình thức sở hữu phải thực hiện các công việc sau
-                                                    đây:</span></i></span></p>
+                                    
+                                    
                                     <p><span style="font-family: arial, helvetica, sans-serif;"><i><span style="font-weight: 400;">a) Khóa sổ kế toán, kiểm kê tài sản, xác
                                                     định nợ chưa thanh toán, lập báo cáo tài chính;</span></i></span>
                                     </p>
@@ -1731,9 +1719,7 @@
                                                     giao;</span></i></span></p>
                                     <p><span style="font-family: arial, helvetica, sans-serif;"><i><span style="font-weight: 400;">c) Bàn giao toàn bộ tài liệu kế toán cho
                                                     đơn vị kế toán sau chuyển đổi.</span></i></span></p>
-                                    <p><span style="font-family: arial, helvetica, sans-serif;"><i><span style="font-weight: 400;"> Đơn vị kế toán sau chuyển đổi căn cứ vào
-                                                    biên bản bàn giao mở sổ kế toán và ghi sổ kế toán theo quy định của
-                                                    Luật này”</span></i></span></p>
+                                    
                                     <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Lưu
                                             ý:&nbsp;</span></p>
                                     <ul style="text-align: justify;">
@@ -1743,14 +1729,7 @@
                                         <li style="font-weight: 400;" aria-level="1"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: 400;">Sau quá trình kiểm kê tài sản, xác định nợ
                                                     chưa thanh toán có thể phát sinh những khoản chênh lệch giữa thực tế
                                                     và sổ sách. Kế toán cần </span><b>lập bảng kê danh mục các khoản
-                                                    chênh lệch</b><span style="font-weight: 400;"> giữa số lượng thực tế
-                                                    có được do kiểm kê tài sản với số liệu trên sổ sách kế toán và chênh
-                                                    lệch công nợ phát sinh khi đối chiếu với khách hàng và nhà cung cấp.
-                                                    Từ đó, tìm hiểu nguyên nhân dẫn đến các khoản chênh lệch này. Việc
-                                                    xử lý chênh lệch được thực hiện và ghi nhận điều chỉnh dựa trên các
-                                                    nguyên nhân phát sinh chênh lệch. Nếu nguyên nhân chênh lệch không
-                                                    thể xác định, kế toán điều chỉnh trực tiếp trên tài khoản 711 – Thu
-                                                    nhập khác và </span><span style="text-decoration: underline;"><span style="color: #0000ff; text-decoration: underline;"><a style="color: #0000ff; text-decoration: underline;" href="https://amis.misa.vn/55705/chi-phi-khac/" target="_blank" rel="noopener"><span style="font-weight: 400;">tài khoản 811 – Chi phí
+                                                    chênh lệch</b><span style="text-decoration: underline;"><span style="color: #0000ff; text-decoration: underline;"><a style="color: #0000ff; text-decoration: underline;" href="https://amis.misa.vn/55705/chi-phi-khac/" target="_blank" rel="noopener"><span style="font-weight: 400;">tài khoản 811 – Chi phí
                                                                 khác</span></a></span></span><span style="font-weight: 400;">.&nbsp;</span></span></li>
                                     </ul>
                                     <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Ví dụ,
@@ -1758,141 +1737,41 @@
                                             thực tế và sổ sách kế toán. Căn cứ vào Biên bản kiểm kê, Biên bản xử lý
                                             chênh lệch phát sinh do kiểm kê hoặc Quyết định xử lý khoản chênh lệch không
                                             rõ nguyên nhân từ bộ phận có thẩm quyền, kế toán ghi:&nbsp;</span></p>
-                                    <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><i><span style="font-weight: 400;">Nợ TK 152,153…</span></i></span></p>
-                                    <p style="text-align: justify; padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;"><i><span style="font-weight: 400;">Có TK 711: Chênh lệch kiểm kê lớn hơn sổ
-                                                    sách.</span></i></span></p>
-                                    <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><i><span style="font-weight: 400;">Nợ TK 811</span></i></span></p>
-                                    <p style="text-align: justify; padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;"><i><span style="font-weight: 400;">Có TK 152, 153…: Chênh lệch kiểm kê nhỏ
-                                                    hơn sổ sách.</span></i></span></p>
-                                    <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Trường
-                                            hợp kế toán sử dụng tài khoản 138(1) và 338(1) để tạm thời ghi nhận các
-                                            khoản chênh lệch phát sinh do kiểm kê chưa rõ nguyên nhân thì việc hạch toán
-                                            bút toán điều chỉnh được thực hiện trên 2 tài khoản này.&nbsp;</span></p>
-                                    <p style="text-align: justify;"><em><strong><span style="font-family: arial, helvetica, sans-serif;">&gt;&gt; Có thể
-                                                    bạn quan tâm: <span style="text-decoration: underline;"><span style="color: #0000ff; text-decoration: underline;"><a style="color: #0000ff; text-decoration: underline;" href="https://amis.misa.vn/38788/xu-ly-cac-khoan-chenh-lech-vinh-vien-tren-quyet-toan-thue-tndn/" target="_blank" rel="noopener">Hướng dẫn xử lý các khoản
-                                                                chênh lệch vĩnh viễn trên quyết toán thuế
-                                                                TNDN</a></span></span></span></strong></em></p>
-                                    <ul style="text-align: justify;">
-                                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Hoặc
-                                                trường hợp chuyển đổi hình thức sở hữu doanh nghiệp (trừ trường hợp
-                                                chuyển đổi doanh nghiệp 100% vốn nhà nước thành công ty cổ phần) nếu
-                                                được phép tiến hành xác định giá trị doanh nghiệp tại thời điểm chuyển
-                                                đổi,&nbsp; dựa trên số liệu đánh giá lại kế toán ghi:&nbsp;</span></li>
-                                    </ul>
-                                    <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><i><span style="font-weight: 400;">Nợ các tài khoản liên
-                                                    quan</span></i></span></p>
-                                    <p style="text-align: justify; padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;"><i><span style="font-weight: 400;">Có TK 711 – Thu nhập khác: Giá trị tài sản
-                                                    được đánh giá tăng</span></i></span></p>
-                                    <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><i><span style="font-weight: 400;">Nợ TK 811 – Chi phí khác</span></i></span>
-                                    </p>
-                                    <p style="text-align: justify; padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;"><i><span style="font-weight: 400;">Có các tài khoản liên quan: Giá trị tài
-                                                    sản được đánh giá giảm</span></i></span></p>
-                                    <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><i><span style="font-weight: 400;">Hình 1: Xử lý kế toán liên quan tới chuyển
-                                                    đổi hình thức sở hữu doanh nghiệp – nguồn:
-                                                    Internet</span></i></span></p>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
                                     <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><b><i>Về lập và trình bày
                                                     Báo cáo tài chính:</i></b></span></p>
-                                    <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Nguyên
-                                            tắc lập và trình bày Báo cáo tài chính khi chuyển đổi hình thức sở hữu doanh
-                                            nghiệp được quy định tại Điều 104 của Thông tư 200/2014/TT-BTC (thông tư về
-                                            việc hướng dẫn chế độ kế toán dành cho doanh nghiệp), cũng như quy định tại
-                                            Điều 76 Thông tư 133/2016/TT-BTC (hướng dẫn chế độ kế toán dành cho doanh
-                                            nghiệp vừa và nhỏ), như sau:&nbsp;</span></p>
-                                    <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Khi
-                                            chuyển đổi hình thức sở hữu, doanh nghiệp phải tiến hành khoá sổ kế toán,
-                                            lập Báo cáo tài chính theo quy định của pháp luật. Trong kỳ kế toán đầu tiên
-                                            sau khi chuyển đổi, doanh nghiệp phải ghi sổ kế toán và trình bày Báo cáo
-                                            tài chính theo nguyên tắc sau:</span></p>
-                                    <ol style="text-align: justify;">
-                                        <li><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">
-                                                Đối với sổ kế toán phản ánh tài sản, nợ phải trả và vốn chủ sở
-                                                hữu:&nbsp;</span></li>
-                                    </ol>
-                                    <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: 400;">Toàn bộ số dư tài sản, nợ phải trả và
-                                            </span><span style="text-decoration: underline;"><span style="color: #0000ff; text-decoration: underline;"><a style="color: #0000ff; text-decoration: underline;" href="https://amis.misa.vn/30547/von-chu-so-huu/" target="_blank" rel="noopener"><span style="font-weight: 400;">vốn chủ sở
-                                                            hữu</span></a></span></span><span style="font-weight: 400;">
-                                                trên sổ kế toán của doanh nghiệp cũ được ghi nhận là số dư đầu kỳ trên
-                                                sổ kế toán của doanh nghiệp mới.&nbsp;</span></span></p>
-                                    <ol style="text-align: justify;" start="2">
-                                        <li><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: 400;"> Đối với </span><span style="text-decoration: underline;"><span style="color: #0000ff; text-decoration: underline;"><a style="color: #0000ff; text-decoration: underline;" href="https://amis.misa.vn/27002/lap-bang-can-doi-ke-toan/" target="_blank" rel="noopener"><span style="font-weight: 400;">Bảng Cân đối kế
-                                                                toán</span></a></span></span><span style="font-weight: 400;">:&nbsp;</span></span></li>
-                                    </ol>
-                                    <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Toàn bộ
-                                            số dư tài sản, nợ phải trả và vốn chủ sở hữu kế thừa của doanh nghiệp cũ
-                                            trước khi chuyển đổi được ghi nhận là số dư đầu kỳ của doanh nghiệp mới và
-                                            được trình bày trong cột “Số đầu năm”.</span></p>
-                                    <ol style="text-align: justify;" start="3">
-                                        <li><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: 400;"> Đối với Báo cáo Kết quả hoạt động kinh
-                                                    doanh và </span><span style="text-decoration: underline;"><span style="color: #0000ff; text-decoration: underline;"><a style="color: #0000ff; text-decoration: underline;" href="https://amis.misa.vn/21722/bao-cao-luu-chuyen-tien-te/" target="_blank" rel="noopener"><span style="font-weight: 400;">Báo cáo lưu chuyển tiền
-                                                                tệ</span></a></span></span><span style="font-weight: 400;">:&nbsp;</span></span></li>
-                                    </ol>
-                                    <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Số liệu
-                                            kể từ thời điểm chuyển đổi đến cuối kỳ báo cáo đầu tiên được trình bày trong
-                                            cột “Kỳ này”. Cột “Kỳ trước” trình bày số liệu luỹ kế kể từ đầu năm báo cáo
-                                            đến thời điểm chuyển đổi hình thức sở hữu.</span></p>
-                                    <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Ngoài
-                                            ra, đối với bản thuyết minh báo cáo tài chính, doanh nghiệp cũng lưu ý khi
-                                            trình bày báo cáo tài chính kỳ đầu tiên sau chuyển đổi tại một số nội dung,
-                                            như:&nbsp;</span></p>
-                                    <ul style="text-align: justify;">
-                                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Hình
-                                                thức sở hữu vốn:&nbsp;</span></li>
-                                    </ul>
-                                    <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Do đã
-                                            có sự thay đổi trong hình thức sở hữu vốn sau thời điểm chuyển đổi loại hình
-                                            doanh nghiệp, khi thuyết minh nội dung này kế toán cần thuyết minh chi tiết
-                                            sự thay đổi hình thức sở hữu vốn của doanh nghiệp tại mục này trong “Đặc
-                                            điểm hoạt động của doanh nghiệp”</span></p>
-                                    <ul style="text-align: justify;">
-                                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Tuyên
-                                                bố về khả năng so sánh thông tin trên Báo cáo tài chính:&nbsp;</span>
-                                        </li>
-                                    </ul>
-                                    <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: 400;">Điều 104 hướng dẫn đối với Cột “kỳ trước” trên
-                                            </span><span style="text-decoration: underline;"><span style="color: #0000ff; text-decoration: underline;"><a style="color: #0000ff; text-decoration: underline;" href="https://amis.misa.vn/21746/lap-bao-cao-ket-qua-hoat-dong-kinh-doanh/" target="_blank" rel="noopener"><span style="font-weight: 400;">Báo cáo kết quả kinh
-                                                            doanh</span></a></span></span><span style="font-weight: 400;"> và Báo cáo lưu chuyển tiền tệ cần trình bày
-                                                số liệu lũy kế từ đầu năm báo cáo đến thời điểm chuyển đổi hình thức sở
-                                                hữu.&nbsp;</span></span></p>
-                                    <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Ví dụ
-                                            thời điểm Công ty thực hiện chuyển đổi hình thức sở hữu doanh nghiệp là ngày
-                                            30/6/N, thì cột số liệu năm đầu tiên sau chuyển đổi sẽ là kết quả kinh doanh
-                                            hoặc dòng lưu chuyển tiền tệ từ ngày 01/7/N đến thời điểm kết thúc năm tài
-                                            chính. Cột “kỳ trước” sẽ là kết quả kinh doanh hoặc dòng lưu chuyển tiền tệ
-                                            từ ngày đầu năm tài chính đến ngày 30/6/N.&nbsp;</span></p>
-                                    <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Với ví
-                                            dụ này, có thể thấy 2 cột số liệu trên không có khả năng so sánh với nhau do
-                                            không tương đồng về khung thời gian. Vì vậy kế toán cần trình bày thông tin
-                                            này sẽ không có khả năng so sánh và nguyên nhân dẫn đến không có khả năng so
-                                            sánh&nbsp; do việc chuyển đổi hình thức sở hữu doanh nghiệp tại ngày
-                                            30/6/N.&nbsp;</span></p>
-                                    <ul style="text-align: justify;">
-                                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Kỳ
-                                                kế toán năm:&nbsp;</span></li>
-                                    </ul>
-                                    <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Đối với
-                                            kỳ kế toán năm trên Báo cáo năm đầu tiên sau thời điểm chuyển đổi doanh
-                                            nghiệp có thể sẽ không tương đồng với một kỳ kế toán năm thông thường của
-                                            doanh nghiệp. Do đó cần thuyết minh rõ kỳ kế toán của Báo cáo đang trình bày
-                                            và kỳ kế toán thông thường sau kỳ báo cáo đầu tiên.&nbsp;</span></p>
-                                    <p style="text-align: justify;"><em><strong><span style="font-family: arial, helvetica, sans-serif;">&gt;&gt; Xem
-                                                    thêm: <span style="text-decoration: underline;"><span style="color: #0000ff; text-decoration: underline;"><a style="color: #0000ff; text-decoration: underline;" href="https://amis.misa.vn/28532/cach-lap-va-trinh-bay-ban-thuyet-minh-bao-cao-tai-chinh-theo-thong-tu-200-2014-tt-btc/" target="_blank" rel="noopener">Hướng dẫn cách lập thuyết
-                                                                minh báo cáo tài chính theo thông tư
-                                                                200/2014/TT-BTC</a></span></span></span></strong></em>
-                                    </p>
-                                    <ul style="text-align: justify;">
-                                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Nguyên
-                                                tắc ghi nhận vốn chủ sở hữu:&nbsp;</span></li>
-                                    </ul>
-                                    <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Kế toán
-                                            lưu ý do mỗi hình thức sở hữu có nguyên tắc theo dõi vốn chủ sở hữu, phân
-                                            phối và sử dụng lợi nhuận khác nhau. Vì vậy cần trình bày nội dung này đúng
-                                            với loại hình sau chuyển đổi và nguyên tắc ghi nhận được quy định trong điều
-                                            lệ hoặc quy chế tài chính của Công ty sau chuyển đổi hình thức sở
-                                            hữu.</span></p>
-                                    <ul style="text-align: justify;">
-                                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Vốn
-                                                chủ sở hữu:&nbsp;</span></li>
-                                    </ul>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
                                     <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Đối với
                                             mỗi loại hình doanh nghiệp khác nhau sẽ có hình thức sở hữu vốn khác nhau.
                                             Do vậy, khi trình bày thuyết minh về nội dung này cũng cần lưu ý thay đổi và
@@ -1908,24 +1787,10 @@
                                     <h2 style="text-align: justify;"><span id="3_Mot_so_luu_y_trong_xu_ly_thue_khi_thuc_hien_chuyen_doi_loai_hinh_doanh_nghiep"><span style="font-family: arial, helvetica, sans-serif;"><b>3. Một số lưu ý
                                                     trong xử lý thuế khi thực hiện chuyển đổi loại hình doanh
                                                     nghiệp</b></span></span></h2>
-                                    <ul style="text-align: justify;">
-                                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Mã
-                                                số thuế của doanh nghiệp sau khi chuyển đổi loại hình được giữ
-                                                nguyên</span></li>
-                                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Hồ
-                                                sơ khai thuế đối với trường hợp chuyển đổi loại hình doanh nghiệp bao
-                                                gồm:</span></li>
-                                    </ul>
-                                    <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">+ Tờ
-                                            khai quyết toán thuế.</span></p>
-                                    <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">+ Báo
-                                            cáo tài chính đến thời điểm chuyển đổi loại hình doanh nghiệp.</span></p>
-                                    <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: 400;">– </span> <span style="font-weight: 400;">Trường hợp chuyển đổi loại hình doanh nghiệp
-                                                (không bao gồm doanh nghiệp nhà nước cổ phần hóa) mà doanh nghiệp chuyển
-                                                đổi kế thừa toàn bộ nghĩa vụ về thuế của doanh nghiệp được chuyển đổi
-                                                thì không phải khai quyết toán thuế đến thời điểm có quyết định về việc
-                                                chuyển đổi doanh nghiệp, doanh nghiệp khai quyết toán khi kết thúc
-                                                năm.</span></span></p>
+                                    
+                                    
+                                    
+                                    
                                     <ul style="text-align: justify;">
                                         <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Doanh
                                                 nghiệp được chuyển đổi loại hình doanh nghiệp có trách nhiệm hoàn thành
@@ -1940,18 +1805,8 @@
                                                 thực hiện </span><span style="text-decoration: underline;"><span style="color: #0000ff; text-decoration: underline;"><a style="color: #0000ff; text-decoration: underline;" href="https://amis.misa.vn/38195/ke-khai-thue-tncn-tu-tien-luong-tien-cong/" target="_blank" rel="noopener"><span style="font-weight: 400;">kê khai thuế
                                                             TNCN</span></a></span></span><span style="font-weight: 400;"> và nộp thuế (nếu có) từ hoạt động chuyển
                                                 nhượng vốn này.</span></span></p>
-                                    <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: 400;">+ </span><span style="font-weight: 400;">Trường hợp cá nhân là người lao động được điều
-                                                chuyển từ tổ chức cũ đến tổ chức mới do tổ chức cũ thực hiện chuyển đổi
-                                                loại hình doanh nghiệp thì tổ chức mới có trách nhiệm quyết toán thuế
-                                                theo ủy quyền của cá nhân đối với cả phần thu nhập do tổ chức cũ chi trả
-                                                và thu lại chứng từ khấu trừ thuế thu nhập cá nhân do tổ chức cũ đã cấp
-                                                cho người lao động (nếu có).</span></span></p>
-                                    <p style="text-align: justify;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif;">Trên
-                                            đây là một số nguyên tắc và lưu ý dành cho kế toán khi doanh nghiệp chuyển
-                                            đổi hình thức sở hữu. Kế toán nên dựa trên giấy chứng nhận kinh doanh chuyển
-                                            đổi, điều lệ hoạt động, và các chính sách tài chính mới sau khi doanh nghiệp
-                                            chuyển đổi hình thức sở hữu để thuyết minh chính xác nội dung phù hợp với
-                                            loại hình doanh nghiệp sau chuyển đổi.&nbsp;&nbsp;</span></p>
+                                    
+                                    <p style="text-align: justify;"></p>
                                     <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: 400;">Hiện nay, kế toán doanh nghiệp đã có sự hỗ trợ
                                                 của các phần mềm trong việc thực hiện các nghiệp vụ kế toán bao gồm cả
                                                 tổng hợp và lên báo cáo tài chính. Một trong số các phần mềm được nhiều
@@ -1977,7 +1832,9 @@
                                                 báo thông minh: Tự động cảnh báo khi phát hiện có sai sót.</span></li>
 
                                     </ul>
-                                    <div>
+                                    <div style="
+    margin-top: 58px;
+">
                                         <img src="https://img.upanh.tv/2022/10/17/image_2022_09_26T10_13_44_311Z09f1ad12a37600a8.png" alt="" style="
     width: 840px;
 ">
@@ -2162,7 +2019,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        <div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 730px; height: 142px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 200%; height: 200%;"></div></div></div><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 730px; height: 142px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 200%; height: 200%;"></div></div></div><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 730px; height: 142px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 200%; height: 200%;"></div></div></div><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 660px; height: 142px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 200%; height: 200%;"></div></div></div><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 730px; height: 142px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 200%; height: 200%;"></div></div></div><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 730px; height: 142px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 200%; height: 200%;"></div></div></div></div>
+                                        <div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 730px; height: 142px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 200%; height: 200%;"></div></div></div><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 730px; height: 142px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 200%; height: 200%;"></div></div></div><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 730px; height: 142px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 200%; height: 200%;"></div></div></div><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 660px; height: 142px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 200%; height: 200%;"></div></div></div><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 730px; height: 142px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 200%; height: 200%;"></div></div></div><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 730px; height: 142px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 200%; height: 200%;"></div></div></div><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 730px; height: 142px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 200%; height: 200%;"></div></div></div><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 730px; height: 142px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 200%; height: 200%;"></div></div></div><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 660px; height: 142px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 200%; height: 200%;"></div></div></div></div>
                                     </div>
                                 </div>
                                 <div style="
@@ -2220,7 +2077,7 @@
         </div>
 
         <div class="looking-more" style="
-    margin-top: -71px;
+    margin-top: -57px;
 ">
             <div class="container">
                 <div style="
@@ -2274,14 +2131,16 @@
                 </div>
         
                 <div class="looking-more-title" style="
+    /* display: none; */
     padding: 0px 155px;
     margin-bottom: 50px;
-"> --- GIẢI QUYẾT VẤN ĐỀ TRONG QUẢN TRỊ DOANH NGHIỆP ---
+"> GIẢI QUYẾT VẤN ĐỀ TRONG QUẢN TRỊ DOANH NGHIỆP 
 <br>
                     <h2 style="margin-top: 68px;">Bắt đầu từ từng phòng ban chuyên môn
                     </h2>
                 </div>
                 <ul class="looking-more-content" style="
+    
     padding: 0px 155px;
 ">
                     <li>
@@ -2342,6 +2201,22 @@
                         </div>
                     </li>
                 </ul>
+                <div style="
+    display: none;
+    display: node;
+    justify-content: center;
+">
+                    <div class="item-button">Phòng Marketing                    </div>
+                    <div class="item-button">Phòng Kế Toán
+                    </div>
+                    <div class="item-button">Phòng Kinh Doanh
+                    </div>
+                    <div class="item-button">Phòng Hành Chính
+                    </div>
+                    <div class="item-button">Phòng Nhân Sự
+
+                    </div>
+                </div>
             </div>
         </div>
         <div id="register" class="register-ai">
@@ -2964,6 +2839,11 @@
                 </div>
                 <style type="text/css">
                     /*css bổ sung */
+                    .item-button {
+                        background-color: #EEEEEE;
+                        padding: 10px;
+                        margin: 10px;
+                    }
                     .tags-wrap {
                         margin: -10px 0 0;
                         padding: 0;
@@ -7173,8 +7053,7 @@ ul.dropdown-menu li {
     </div>
     <div id="app" class="zs"></div>
 
-    <link rel="stylesheet" id="fac-fa-css" href="/wp-content/plugins/agp-font-awesome-collection/vendor/agp/agp-fontawesome/css/font-awesome.min.css?ver=6.0.2" type="text/css" media="all">
-    <link rel="stylesheet" id="molongui-authorship-box-css" href="/wp-content/plugins/molongui-authorship/assets/css/author-box.cf86.min.css?ver=4.6.12" type="text/css" media="all"><style id="molongui-authorship-box-inline-css" type="text/css">
+    <link rel="stylesheet" id="fac-fa-css" href="/wp-content/plugins/agp-font-awesome-collection/vendor/agp/agp-fontawesome/css/font-awesome.min.css?ver=6.0.2" type="text/css" media="all"><style id="molongui-authorship-box-inline-css" type="text/css">
         :root {
             --m-a-box-bp: 600px;
             --m-a-box-bp-l: 599px;
@@ -7271,8 +7150,9 @@ ul.dropdown-menu li {
         .m-a-box-container {
             box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
         }
-    </style>
+    </style><link rel="stylesheet" id="molongui-authorship-box-css" href="/wp-content/plugins/molongui-authorship/assets/css/author-box.cf86.min.css?ver=4.6.12" type="text/css" media="all">
 
+    
     
     <link rel="stylesheet" id="lwptoc-main-css" href="/wp-content/plugins/luckywp-table-of-contents/front/assets/main.min.css?ver=2.1.4" type="text/css" media="all">
     <script type="text/javascript" id="clicktrack-adrotate-js-extra">
@@ -7284,10 +7164,10 @@ ul.dropdown-menu li {
     <script type="text/javascript" id="ldz-popup-loader" src="https://amismisa.misacdn.net/apps/aimarketing/form-editor/static/js/popup-embed.js?companyid=56c33c47-78ec-4b3a-92ba-9fdb7830a6d4"></script>
     
     
+    
     <script type="text/javascript" id="">window.smartlook || function (a) { var b = smartlook = function () { b.api.push(arguments) }, c = a.getElementsByTagName("head")[0]; a = a.createElement("script"); b.api = []; a.async = !0; a.type = "text/javascript"; a.charset = "utf-8"; a.src = "https://web-sdk.smartlook.com/recorder.js"; c.appendChild(a) }(document); smartlook("init", "29b6adabc447a313ae286d6292c3437e2bd638e6", { region: "eu" });</script>
     <script type="text/javascript" src="/wp-content/plugins/td-composer/legacy/Newspaper/js/tagdiv_theme.min.js?ver=11.5.1" id="td-site-min-js"></script>
-    <script type="text/javascript" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=6.0.2" async="async" id="remote_sdk-js"></script>
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/css-element-queries@1.2.2/src/ResizeSensor.min.js?ver=1.2.2" id="molongui-resizesensor-js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/css-element-queries@1.2.2/src/ElementQueries.min.js?ver=1.2.2" id="molongui-elementqueries-js"></script><script type="text/javascript" src="/wp-content/plugins/luckywp-table-of-contents/front/assets/main.min.js?ver=2.1.4" id="lwptoc-main-js"></script>
+    <script type="text/javascript" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=6.0.2" async="async" id="remote_sdk-js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/css-element-queries@1.2.2/src/ResizeSensor.min.js?ver=1.2.2" id="molongui-resizesensor-js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/css-element-queries@1.2.2/src/ElementQueries.min.js?ver=1.2.2" id="molongui-elementqueries-js"></script><script type="text/javascript" src="/wp-content/plugins/luckywp-table-of-contents/front/assets/main.min.js?ver=2.1.4" id="lwptoc-main-js"></script>
     <script id="molongui-authorship-front-inline-js-extra">var molongui_authorship_front_params = { "byline_prefix": "", "byline_suffix": "", "byline_separator": ", ", "byline_last_separator": " and ", "byline_link_title": "View all posts by", "byline_dom_tree": "" };</script>
     <script id="molongui-authorship-front-inline-js" type="text/javascript" data-file="front.16cd.min.js" data-version="4.6.12">var addBylineModifiers = function () { var r = "?m_bm=true", e = document.querySelectorAll('a[href$="' + r + '"]'); Array.prototype.forEach.call(e, function (e, t) { e.setAttribute("href", decodeURIComponent(e.getAttribute("href")).replace(r, "")), e.insertAdjacentHTML("beforebegin", molongui_authorship_front_params.byline_prefix + " "), e.insertAdjacentHTML("afterend", " " + molongui_authorship_front_params.byline_suffix) }) }, decodeMultiAuthorBylines = function () { var e = document.querySelectorAll('a[href*="molongui_byline=true"]'); Array.prototype.forEach.call(e, function (e, t) { var r = e.getAttribute("href"), i = new URL(decodeURIComponent(r)), n = new URLSearchParams(i.search), a = i.origin, o = i.pathname, r = ""; if (!n.has("molongui_byline")) return !1; if (n.has("lang") && (r = "?lang=" + n.get("lang")), "" === e.innerText) return n.has("m_main_disabled") ? e.removeAttribute("href") : e.setAttribute("href", a + o + r), !1; var l, s = [molongui_authorship_front_params.byline_separator, molongui_authorship_front_params.byline_last_separator], u = e.innerText.split(new RegExp(s.join("|"), "gi")); n.has("m_main_disabled") ? (l = n.getAll("mca")).unshift("molongui-disabled-link") : (i = o.replace(/^\/|\/$/g, "").split("/").pop(), o.replace(/\/$/g, "").replace(i, ""), (l = n.getAll("mca")).unshift(a + o + r)); var d = "", m = u.length, n = e.getAttribute("class"), a = e.getAttribute("target"), o = e.getAttribute("rel"), r = e.getAttribute("itemprop"), c = n ? 'class="' + n + '"' : "", h = a ? 'target="' + a + '"' : "", p = o ? 'rel="' + o + '"' : "", f = r ? 'itemprop="' + r + '"' : ""; for (j = 0; j < m; j++) { var _ = u[j].trim(), b = "", b = "" !== molongui_authorship_front_params.byline_dom_tree ? molongui_authorship_front_params.byline_dom_tree.replace("{%ma_authorName}", _) : _; "molongui-disabled-link" === l[j] || j >= l.length ? d += b : d += '<a href="' + l[j] + '" ' + c + " " + p + " " + f + " " + h + ' title="' + molongui_authorship_front_params.byline_link_title + " " + _ + '">' + b + "</a>", j < m - 1 - 1 ? d += s[0] : j < m - 1 && (d += s[1]) } e.insertAdjacentHTML("afterend", d), e.parentNode.removeChild(e) }) }, disableEmptyLinks = function () { var e = document.querySelectorAll('a[href="#molongui-disabled-link"]'); Array.prototype.forEach.call(e, function (e, t) { e.classList.add("molongui-disabled-link"), e.removeAttribute("href") }) }, initBylines = function () { addBylineModifiers(), decodeMultiAuthorBylines(), disableEmptyLinks() }; document.addEventListener("DOMContentLoaded", function () { initBylines(); var e = document.body; new MutationObserver(function (e) { Array.prototype.forEach.call(e, function (e, t) { initBylines() }) }).observe(e, { attributes: !0, childList: !0, subtree: !0, characterData: !0 }) });</script>
 
@@ -7431,9 +7311,9 @@ ul.dropdown-menu li {
                         "13px"); clearInterval(custom_var)
             } Tawk_API = Tawk_API || {}; Tawk_API.onChatMaximized = function () { setInterval(customize_tawk_widget, 100); setInterval(cusomt_wid_2, 100) }; var x = screen.width; 979 <= x && (window.Tawk_API = window.Tawk_API || {}, window.Tawk_API.onLoad = function () { window.Tawk_API.maximize() }); window.Tawk_API = window.Tawk_API || {}; window.Tawk_API.onChatStarted = function () { var a = clearTimeout(a) }; var dataLayerPush = function (a) { dataLayer.push({ event: "tawk.to", eventAction: a }); console.log({ event: "tawk.to", eventAction: a }) };
             Tawk_API.onChatStarted = function () { dataLayerPush("Chat Started") }; Tawk_API.onPrechatSubmit = function (a) { dataLayerPush("Prechat form submitted") }; Tawk_API.onOfflineSubmit = function (a) { dataLayerPush("Offline Chat submit") };</script>
-    <script async="" charset="UTF-8" src="https://embed.tawk.to/_s/v4/app/63258f417d7/languages/vi.js"></script><script type="text/javascript">var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date(); (function () { var s1 = document.createElement('script'), s0 = document.getElementsByTagName('script')[0]; s1.async = true; s1.src = 'https://embed.tawk.to/6281c5bb7b967b11798f7e84/1g35eoq4h'; s1.charset = 'UTF-8'; s1.setAttribute('crossorigin', '*'); s0.parentNode.insertBefore(s1, s0); })();</script>
+    <script async="" charset="UTF-8" src="https://embed.tawk.to/_s/v4/app/63258f417d7/languages/vi.js"></script>
     <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"></script>
-    <script type="text/javascript" id="">fbq("track", "Time_on_site_30s");</script>
+    <script type="text/javascript">var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date(); (function () { var s1 = document.createElement('script'), s0 = document.getElementsByTagName('script')[0]; s1.async = true; s1.src = 'https://embed.tawk.to/6281c5bb7b967b11798f7e84/1g35eoq4h'; s1.charset = 'UTF-8'; s1.setAttribute('crossorigin', '*'); s0.parentNode.insertBefore(s1, s0); })();</script><script type="text/javascript" id="">fbq("track", "Time_on_site_30s");</script>
     
     <div id="z31hf8qce2og1665937407746" class="widget-visible"><iframe src="about:blank" scrolling="no" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:10px !important; bottom:0px !important; left:auto !important; position:fixed !important; border:0 !important; min-height:44px !important; min-width:184px !important; max-height:44px !important; max-width:184px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:184px !important; height:44px !important; display:none !important; z-index:1000001 !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important;" id="r8e356kv57d41665937407816" class="" title="chat widget" width="184px" height="44px" frameborder="0"></iframe><iframe src="about:blank" scrolling="no" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:10px !important; bottom:60px; left:auto !important; position:fixed !important; border:0 !important; min-height:55px !important; min-width:360px !important; max-height:55px !important; max-width:360px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:360px !important; height:55px !important; display:none !important; z-index:auto !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important;" id="dgm8hk6g5481665937407853" class="custom-chat-widget" title="chat widget" width="360px" height="55px" frameborder="0"></iframe>
         <div id="chat-bubble"></div>
@@ -7445,6 +7325,8 @@ ul.dropdown-menu li {
     <script type="text/javascript" id="">fbq("track", "Time_on_site_30s");</script>
     <script type="text/javascript" id="">fbq("track", "Scroll_Depth_75");</script>
 <script type="text/javascript" id="">fbq("track","Time_on_site_30s");</script><script type="text/javascript" id="">fbq("track","Scroll_Depth_75");</script>
+<script type="text/javascript" id="">fbq("track","Scroll_Depth_75");</script>
+<script type="text/javascript" id="">fbq("track","Time_on_site_30s");</script><script type="text/javascript" id="">fbq("track","Time_on_site_30s");</script><script type="text/javascript" id="">fbq("track","Scroll_Depth_75");</script>
 <script type="text/javascript" id="">fbq("track","Scroll_Depth_75");</script>
 <script type="text/javascript" id="">fbq("track","Time_on_site_30s");</script><script type="text/javascript" id="">fbq("track","Time_on_site_30s");</script><script type="text/javascript" id="">fbq("track","Scroll_Depth_75");</script>
 <script type="text/javascript" id="">fbq("track","Scroll_Depth_75");</script>

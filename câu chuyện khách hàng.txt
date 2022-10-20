@@ -1,0 +1,130 @@
+<p>
+<img loading="lazy" class="alignnone size-medium wp-image-573"
+	src="/cau-chuyen-khach-hang/wp-content/uploads/2022/10/Group-50880-1.png" alt="" width="100%" height="300">
+</p>
+<div>
+Đại dịch Covid-19 suốt những năm gần đây đã có tác động rất lớn đến hoạt động sản xuất, kinh doanh của hầu hết các doanh nghiệp trong nước. Tuy nhiên, Công ty TNHH MTV Nông Nghiệp Mai Vàng lại là một ngoại lệ. Chia sẻ với MISA, anh Nguyễn Văn Thanh - Đại diện công ty cho biết: “Nhờ phần mềm bán hàng AMIS CRM, đại dịch COVID-19 không làm ảnh hưởng đến hoạt động kinh doanh của chúng tôi. Dù số lượng nhân viên sales cắt giảm đáng kể, doanh thu vẫn đều đều.”
+Nông Nghiệp Mai Vàng đã ứng dụng công nghệ vào vận hành doanh nghiệp như thế nào để giúp công ty trụ vững trong bão Covid, xin mời quý độc giả cùng tìm hiểu trong bài viết dưới đây.  
+</div>
+<p style="
+		display: flex;
+		justify-content: center;
+	"><img  loading="lazy" class="alignnone size-medium wp-image-573"
+	src="/cau-chuyen-khach-hang/wp-content/uploads/2022/10/Group-50749.png" alt="" width="100%" height="300" style="
+	margin-bottom: 14px;
+	margin-top: 48px;
+	width: 450px;
+"
+	"></p>
+
+<div>Công ty TNHH Một Thành Viên Nông Nghiệp Mai Vàng là đơn vị sản xuất và kinh doanh phân bón có tiếng tại khu vực Đồng Bằng Sông Cửu Long. 
+Doanh nghiệp có gần 200 nhân viên với diện tích nhà máy, kho bãi lên đến trên 15.000 m². Sản phẩm của công ty đã có mặt khắp 13 tỉnh Đồng bằng Sông Cửu Long và các tỉnh Miền Đông với hệ thống vận chuyển hàng hóa bằng đường bộ và đường thủy thông suốt khắp các tỉnh. 
+Để tồn tại và phát triển trên thị trường, cũng như đáp ứng yêu cầu ngày càng cao của nền nông nghiệp trong nước, công ty luôn chú trọng đầu tư vào công nghệ, ứng dụng các phần mềm vào quản lý, sản xuất nhằm nâng cao hiệu suất làm việc, tiết kiệm thời gian và chi phí.
+</div>
+<p style="
+		display: flex;
+		justify-content: center;
+	"><img loading="lazy" class="alignnone size-medium wp-image-573"
+	src="/cau-chuyen-khach-hang/wp-content/uploads/2022/10/Group-50828.png" alt="" width="100%" height="300" style="
+	margin-bottom: 14px;
+	margin-top: 48px;
+	width: 450px;
+">
+</p>
+
+
+
+<div class="wrap-nmduc">
+	<div class="item-text-nmduc">Anh Thanh chia sẻ: “Trước kia khi chưa sử dụng phần mềm AMIS CRM, nhân viên kinh doanh đi thị trường muốn lên đơn hàng phải trải qua rất nhiều khâu như: Chốt sale phía khách hàng sau đó gọi điện hoặc nhắn tin về cho bộ phận kế toán bán hàng lên đơn, làm hợp đồng rồi bộ phận sản xuất mới giao hàng được cho khách. Tuy nhiên khi vào vụ, tin nhắn từ Sales quá nhiều, kế toán thường bị bỏ sót mất đơn hàng, không kịp chuyển cho bên sản xuất để giao hàng, rất bất cập!”</div>
+	<p class="item-img-nmduc"><img  src="/cau-chuyen-khach-hang/wp-content/uploads/2022/10/Group-50795.png" alt=""></p>
+	
+</div>
+<div class="wrap-nmduc">
+	<p class="item-img-nmduc"><img  src="/cau-chuyen-khach-hang/wp-content/uploads/2022/10/web-phai.png" alt=""></p>
+	<div class="item-text-nmduc">
+	<p><img style="margin-top: 10px;" src="/cau-chuyen-khach-hang/wp-content/uploads/2022/10/Group-50811.png" alt=""></p>
+	<p>CRM đã giúp doanh nghiệp giải quyết khó khăn trên bằng tính năng liên thông, đồng nhất dữ liệu giữa Kế toán và Bán hàng. “Một đơn hàng Sale lập trên phần mềm thì ngay lập tức Kế toán và Sản xuất đều nhận được. Các bộ phận phối hợp nhịp nhàng tạo ra một chu trình khép kín giúp chúng tôi không bỏ lỡ bất kì đơn hàng hay công nợ nào” - Anh Thanh nhận xét về tính năng mà anh cảm thấy tâm đắc nhất của AMIS CRM.</p>
+	</div>
+</div>
+<div class="wrap-nmduc">
+	
+	<div class="item-text-nmduc">
+	<p><img style="margin-top: 10px;" src="/cau-chuyen-khach-hang/wp-content/uploads/2022/10/Group-50860.png" alt=""></p>
+	<p>Chính nhờ tính năng tính năng tự động hóa phê duyệt các quy trình mất nhiều thời gian như phê duyệt báo giá, hợp đồng… , AMIS CRM giúp doanh nghiệp tối ưu quy trình bán hàng, nâng cao hiệu suất bán hàng của đội ngũ.
+		Đến nay, Nông Nghiệp Mai Vàng vẫn luôn tự hào rằng dù số lượng nhân viên sales cắt giảm đến gần một nửa trong thời gian dịch, bộ phận kinh doanh của công ty vẫn hoạt động trơn tru mà không cần tuyển mới sau khi đại dịch kết thúc. 
+		</p>
+	</div>
+	<p class="item-img-nmduc"><img style="
+		width: 6013px;
+		margin: 36px 17px;
+	" src="/cau-chuyen-khach-hang/wp-content/uploads/2022/10/272923716_4101177986651998_2471509090872517101_n.png" alt=""></p>
+</div>
+<div class="wrap-nmduc">
+<p class="item-img-nmduc"><img  src="/cau-chuyen-khach-hang/wp-content/uploads/2022/10/di-tuyen-1.png" alt=""></p>
+	<div class="item-text-nmduc">
+	<p><img style="margin-top: 10px;" src="/cau-chuyen-khach-hang/wp-content/uploads/2022/10/Group-50861-1.png" alt=""></p>
+	<p>Với hình thức phân phối sản phẩm chủ yếu qua các đại lý, nhân viên kinh doanh của Nông nghiệp Mai Vàng thường xuyên phải đi thị trường. 
+		Phần mềm AMIS CRM giúp nhà quản lý có thể theo dõi được quá trình đi tuyến của nhân viên kinh doanh, đồng thời nắm được vị trí hiện tại của nhân viên kinh doanh, theo dõi các thông tin của khách hàng mà nhân viên đó đã ghé thăm như tồn kho, đơn hàng, cơ hội; kiểm soát nhân viên kinh doanh có đi đúng tuyến theo kế hoạch đặt ra trước đó.
+		</p>
+	</div>
+	
+</div>
+<div class="wrap-nmduc">
+
+	<div class="item-text-nmduc">
+	<p><img style="margin-top: 10px;" src="/cau-chuyen-khach-hang/wp-content/uploads/2022/10/Group-50870-1.png" alt=""></p>
+	<p>Nông nghiệp Mai Vàng chính thức sử dụng AMIS CRM từ tháng 9/2020, song song với phần mềm AMIS Kế toán của MISA. Có thể coi đây chính là bước tiến lớn giúp công ty tạo nên cuộc cách mạng trong quản lý và vận hành bộ phận của mình. 
+		Có đến hơn 2000 khách hàng nhưng chỉ với 1 phần mềm quản lý bán hàng, các nhân viên kinh doanh của Nông nghiệp Mai Vàng chỉ cần dùng smartphone trực tiếp lên đơn trên app mobile ngay tại điểm bán.
+		Việc sử dụng 2 phần mềm AMIS CRM và Kế toán cho phép nhân viên kinh doanh bỏ qua bước phải liên hệ với bộ phận kế toán bán hàng để kiểm tra tồn kho hay nhập liệu thông tin đơn hàng bằng cách ghi chép thủ công rườm rà, mất thời gian. Khi NVKD thực hiện thêm khách hàng trên AMIS CRM và khách hàng phát sinh báo giá, đơn hàng hoặc đề nghị xuất hóa đơn, hệ thống sẽ đồng bộ cả khách hàng và chứng từ kèm theo sang AMIS Kế toán. Nền tảng cũng hỗ trợ cập nhật những thay đổi về sản phẩm hàng hóa, chính sách giá từ Bán hàng sang Kế toán vô cùng tiện lợi. Nhờ vậy mà việc triển khai kinh doanh mạng lưới và quy trình bán hàng – kế toán tại Nông nghiệp Mai Vàng trở nên thông suốt và nhanh chóng, chính xác hơn bao giờ hết. 			
+		</p>
+	</div>
+	<p class="item-img-nmduc"><img  src="/cau-chuyen-khach-hang/wp-content/uploads/2022/10/mobile.png" alt=""></p>
+	
+</div>
+<div class="wrap-nmduc">
+	
+		<div class="item-text-nmduc-1">
+		<p ><img  src="/cau-chuyen-khach-hang/wp-content/uploads/2022/10/Man-hinh-cong-KH.png" alt=""></p>
+		<p ><img  src="/cau-chuyen-khach-hang/wp-content/uploads/2022/10/Group-50871-1.png" alt=""></p>
+		<p>Khi được hỏi về lợi ích của phần mềm AMIS CRM đối với cấp quản lý cũng như nhân viên của Nông nghiệp Mai Vàng, anh Thanh chia sẻ: “AMIS CRM giúp chúng tôi tăng hiệu suất làm việc, tiết kiệm thời gian lên đến 30%!”
+
+			Luôn không nỗ lực ngừng cải tiến tính năng sản phẩm, MISA hi vọng phần mềm AMIS CRM sẽ mang lại những thay đổi tích cực trong việc tối ưu hoạt động Marketing - Bán hàng - Chăm sóc khách hàng của các doanh nghiệp Việt. Mỗi câu chuyện thành công của Quý doanh nghiệp là nguồn động lực to lớn để công ty cổ phần MISA nói chung và đội ngũ MISA AMIS CRM nói riêng cố gắng hơn nữa, để đem đến những trải nghiệm tuyệt vời nhất cho khách hàng.
+					
+			</p>
+		</div>
+		
+</div>
+<div class="item-button">
+	<a href="https://amis.misa.vn/marketing-ban-hang/"><p><img src="/cau-chuyen-khach-hang/wp-content/uploads/2022/10/Group-50879.png" alt=""></p></a>
+</div>
+
+
+<style>
+.item-button{
+	display: flex;
+	justify-content: center;
+}
+.item-text-nmduc-1{
+	display: flex;
+text-align: center;
+flex-wrap: wrap;
+justify-content: center;
+}
+.wrap-nmduc{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.post-single-ctn {
+	display: flex;
+}
+.item-text-nmduc{
+	width: 50% ;
+}
+.item-img-nmduc{
+	width: 50%;
+}
+.post-single-img {
+    width: 404%;
+}
+</style>
